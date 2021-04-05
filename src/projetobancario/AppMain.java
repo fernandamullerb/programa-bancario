@@ -8,7 +8,6 @@ public class AppMain {
 
         //Objeto:
         ContaBancaria cb = new ContaBancaria("Fernanda Bank", "10090-56", "Louro José");
-        ContaBancaria cb2 = new ContaBancaria("Fernanda Bank", "10090-57", "Ana Maria Braga");
        
         System.out.println("Seja bem-vindo ao Fernanda Bank");
         int i=0;
